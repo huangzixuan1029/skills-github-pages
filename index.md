@@ -1,5 +1,5 @@
 ---
-title:Back to index
+title: Back to index
 ---
 ## introduction ✴️:
 > *Now what you are visiting is my personal blog*
