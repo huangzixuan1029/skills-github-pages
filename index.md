@@ -3,7 +3,7 @@ title: Back to index
 ---
 ## introduction ✴️:
 > *Now what you are visiting is my personal blog*
-> welocme :heart: :heart: :heart: :heart: :heart:
+> welocm 💙💙💙
 ### what i want to do 👣:
 > i want to do lots of things,such as make my own game with C++,it's hard to me.
 > i want to attend some Algorithm Competition during my colleague period.
