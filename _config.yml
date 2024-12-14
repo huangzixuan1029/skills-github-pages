@@ -6,7 +6,7 @@ navbar:
   - title: "Home"
     url: "/"
   - title: "Blog"
-    url: "/blog/"
+    url: "/post/"
   - title: "About"
     url: "/about/" 
 posts:
