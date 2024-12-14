@@ -1,5 +1,5 @@
 ---
-title :Posts
+title: Posts
 layout: default
 ---
 # 这是我的文章
