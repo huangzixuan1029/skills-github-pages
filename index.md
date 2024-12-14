@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog,I'm ***BigHuang***
+title: Welcome to my blog  I'm BigHuang
 ---
 ## introduction
 > i am a newbie which is learning C and C++,so eeverything is new world to me,i enjoy this process.
