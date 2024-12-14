@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog  I'm BigHuang
+title:Back to index
 ---
 ## introduction ✴️:
 > *Now what you are visiting is my personal blog*
