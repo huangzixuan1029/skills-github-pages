@@ -16,6 +16,11 @@ layout: default
   接下来是C语言，C语言怎么说呢，如果一段时间不进行练习的话，总是会忘，而且感觉有的地方还是没有理解透彻，考试时间也是这三门里面最早的，打算明天把第九章的链表部分好好看看，然后看看书（maybe
   
   哦哦哦.还有今天从图书馆出来看见了好看的晚霞，原来景色真的可以抚慰疲惫的心灵,但是在图书馆找位子还是很痛苦的，看着师哥师姐们努力的考研，越发感觉考研好累，所以还是平时努力一点吧。。。
-  
-<img src="https://github.com/user-attachments/assets/e948ff90-f304-450d-bf82-60287b455795" alt="晚霞1" width="400" height="300">
-<img src="https://github.com/user-attachments/assets/a54465ff-73db-4fc7-9f3c-14624a4f436f" alt="晚霞2" width="400" height="300">
+
+  <table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e948ff90-f304-450d-bf82-60287b455795" alt="晚霞1" width="400" height="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a54465ff-73db-4fc7-9f3c-14624a4f436f" alt="晚霞2" width="400" height="300"></td>
+  </tr>
+</table>
+
