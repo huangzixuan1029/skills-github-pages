@@ -23,6 +23,7 @@ layout: default
     for (int i = 0; i < N; i++) {
         scanf("%d", &A[i]);
     }
+
 ## 12/16
   马上要进行各科的期末考试了，尤其是数学，英语，C语言。
   
