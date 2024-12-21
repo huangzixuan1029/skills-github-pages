@@ -20,12 +20,12 @@ layout: default
 
 >5 动态数组的创建 理解其实 `int a[10]; a[i] == *(a+i)` 所以在这里可以直接当正常的静态数组用
 
-```cpp
+``` cpp
 int* A = (int*)malloc(N * sizeof(int));
 for (int i = 0; i < N; i++) {
     scanf("%d", &A[i]);
 }
-
+```
 
 ## 12/16
   马上要进行各科的期末考试了，尤其是数学，英语，C语言。
