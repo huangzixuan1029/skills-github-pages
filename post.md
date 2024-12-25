@@ -30,8 +30,8 @@ for (int i = 0; i < N; i++) {
 >6指针和数组的理解
 <table>
   <tr>
-    <td><img src="[https://github.com/user-attachments/assets/e948ff90-f304-450d-bf82-60287b455795](https://github.com/user-attachments/assets/225d2adf-74e4-48f0-82e4-9a308f8df664)" alt="微信图片_20241225173856" width="400" height="300"></td>
-    <td><img src="[https://github.com/user-attachments/assets/a54465ff-73db-4fc7-9f3c-14624a4f436f](https://github.com/user-attachments/assets/f6454351-f0c0-48cd-8cac-2fcf8be7b383)" alt="微信图片_20241225173837" width="400" height="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/225d2adf-74e4-48f0-82e4-9a308f8df664" alt="微信图片_20241225173856" width="350" height="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/f6454351-f0c0-48cd-8cac-2fcf8be7b383" alt="微信图片_20241225173837" width="350" height="500"></td>
   </tr>
 </table>
 
