@@ -39,6 +39,53 @@ for (int i = 0; i < N; i++) {
 
 ## 考试突击复习笔记
 
+## 英语期末复习
+
+### 七选五部分
+* was coined 指的是一个词或者短语被创造出来(板球的那个七选五)
+* deficiency 是缺乏的意思 名词
+
+### 汉译英的部分
+* 孔子是中国历史上著名的思想家，教育家，是儒家学派的创始人
+  Confucius was a well-known thinker and educator in Chinese history, and he was the founder of Confucianism.
+
+
+* 《论语》（The Analects）收录了孔子的思想。它是中国古代文化的经典著作（classic），对后来历代思想家和文学家产生了很大影响。
+  
+
+  The Analects is a collection of the thoughts of Confucius .It is a classic of ancient Chinese culture,and it has a great influence on the thinkers and writers of later generation.
+
+* 如今，孔子的学说不仅受到中国人的重视，也越来越得到整个国际社会的关注。
+
+  Nowadays,the teachings of Confucius are not only valued by Chinese people,but also attracting increasing attention from the international community.
+  
+  //这里 增加的注意 用increaing attention好
+
+* 孝道（ filial piety ）是中国古代社会的基本道德规范（code of ethics ）之一。
+  
+  Filial piety is one of the basic codes of ethics in ancient Chinese society.
+
+* 一般来说，孝道指子女对父母应尽的义务，主要包括尊敬、关爱及赡养老人。
+  Generally speaking,filial piety refers to children's obligations to their parents,mainly including respect,care,and support for the elderly.
+
+* 孝道是中国社会千百年来维系家庭关系的道德准则。它毫无疑问是中华民族的一种传统美德。
+ In Chinese society, filial piety has been the moral standard for maintaining family relations for thousands of years. It is undoubtedly a traditional Chinese virtue. 
+
+* 郑和 1371 年出生于云南昆明，他不仅是明朝的外交家（diplomat），也是中国历史上最著名的海上探险家（maritime explorer）。
+  Zheng He,born in 1371 in Kunming,Yunnan,was not only a diplomat in the Ming Dynasty but also the most famous maritime explorer in Chinese history.
+* 从公元 1405 年起的 28 年间，郑和带领船队七下西洋（the Western Seas），出海的人员共计 10 多万人，访问了 30 多个国家和地区。 
+  In the 28 years after 1405 AD,Zheng He led his fleet to make seven voyages to the Western Seas with over 100000 crewmembers in total, and they visited more than 30 countries and regions.
+* 郑和下西洋是世界航海（navigation）史上的壮举，加强了明朝和海外各国之间的关系。 
+  Zheng He's voyages to the Western Seas were a great achievement in the world's navigation history. They strengthened the relationships between the Ming Dynasty and countries overseas.
+
+* 随着互联网技术的发展，数字化教育使人们得以通过互联网进入虚拟教室，并随时随地学习.
+  With the development of Internet technology,digital education enables people to get access to virtual classes through the Internet and learn anytime and anywhere.
+* 数字化教育拓展了学习者学习的时间和空间，为终身学习提供了更多的可能性。
+   Digital education expands the learner's
+time and space for learning, thus providing more possibilities for lifelong learning.
+* 中国将坚持教育优先发展，推进教育数字化，建设学习型社会，学习型大国。
+  China will continue to give priority to the development of education,promote the digitalization of education, and build a society and country of learning.
+### 短语部分
 ### 选择题 部分
 
   * 计算机语言是完成某一任务的指令集
