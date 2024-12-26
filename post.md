@@ -85,6 +85,26 @@ for (int i = 0; i < N; i++) {
 time and space for learning, thus providing more possibilities for lifelong learning.
 * 中国将坚持教育优先发展，推进教育数字化，建设学习型社会，学习型大国。
   China will continue to give priority to the development of education,promote the digitalization of education, and build a society and country of learning.
+  * 中国将坚持教育优先发展，推进教育数字化，建设学习型社会，学习型大国。
+  China will continue to give priority to the development of education,promote the digitalization of education, and build a society and country of learning.
+* 新中国成立后，中国坚持（persist in）独立自主的和平外交政策，在外交方面取得了巨大成就。截至 2022 年，中国已与 181 个国家建立了外交关系（diplomatic relations）
+  Since the founding of the People's Republic of China,China has persisted in its independent foreign policy of peace and made tremendous progress in foreign affairs. By 2022,China has established diplomatic relations with 181 countries.
+
+*  中国始终坚持维护（uphold）世界和平、促进共同发展的外交政策的宗旨，致力于推动构建人类命运共同体。 
+ 
+ China has always been committed  to its foreign policy goals of upholding world peace and promoting common development and is delicated to promoting a goal community of shared future.
+
+* 在和平共处五项原则（the Five Principles of Peaceful Coexistence）的基础上，中国正在为建设和平、繁荣、和谐的世界作出更大的努力。
+ 
+ On the basis of the Five Principles of Peaceful Coexistence ,China is making greater efforts to build a peaceful,prosperous,and harmonious world.
+
+* 太极拳是一种武术，也是一种健身运动，在中国有着悠久的历史。
+  Taijiquan is a martial art and a fitness exercise as well . It has a long history in China.
+
+* 太极拳动作缓慢而柔和，适合任何年龄、性别、体型(build) 的人。
+  With slow and gentle  movements, Taijiquan is suitable for anyone ,whatever their age, gender, or build.
+* 太极拳既可用于防身(self-defense)，又能强身健体，因而深受中国人民和世界人民的喜爱。
+  Taijiquan can be used for self-defense as well as building one's body. Therefore ,it has become very popular among people both in China and around the World.
 ### 短语部分
 ### 选择题 部分
 
