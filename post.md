@@ -83,10 +83,13 @@ for (int i = 0; i < N; i++) {
 * 数字化教育拓展了学习者学习的时间和空间，为终身学习提供了更多的可能性。
    Digital education expands the learner's
 time and space for learning, thus providing more possibilities for lifelong learning.
+
 * 中国将坚持教育优先发展，推进教育数字化，建设学习型社会，学习型大国。
   China will continue to give priority to the development of education,promote the digitalization of education, and build a society and country of learning.
+
   * 中国将坚持教育优先发展，推进教育数字化，建设学习型社会，学习型大国。
   China will continue to give priority to the development of education,promote the digitalization of education, and build a society and country of learning.
+
 * 新中国成立后，中国坚持（persist in）独立自主的和平外交政策，在外交方面取得了巨大成就。截至 2022 年，中国已与 181 个国家建立了外交关系（diplomatic relations）
   Since the founding of the People's Republic of China,China has persisted in its independent foreign policy of peace and made tremendous progress in foreign affairs. By 2022,China has established diplomatic relations with 181 countries.
 
