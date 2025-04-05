@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<section class="hero">
+    <div class="container">
+        <h1>欢迎来到我的博客</h1>
+        <p>这里记录着我的编程学习、英语学习和生活点滴</p>
+    </div>
+</section>
+
+<section class="featured-posts">
+    <div class="container">
+        <h2>最新文章</h2>
+        <div class="post-grid">
+            {% for post in site.posts limit:3 %}
+            <article class="post-card">
+                <div class="post-card-content">
+                    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                    <div class="post-meta">
+                        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                        {% if post.categories %}
+                        <span class="post-categories">{{ post.categories | join: ", " }}</span>
+                        {% endif %}
+                    </div>
+                    <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+                    <a href="{{ post.url | relative_url }}" class="read-more">阅读更多</a>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="categories">
+    <div class="container">
+        <h2>文章分类</h2>
+        <div class="category-grid">
+            <div class="category-card">
+                <h3>编程笔记</h3>
+                <p>记录编程学习过程中的心得体会和技巧总结</p>
+                <a href="{{ '/categories/#编程' | relative_url }}" class="category-link">查看笔记</a>
+            </div>
+            <div class="category-card">
+                <h3>英语学习</h3>
+                <p>分享英语学习经验和翻译技巧</p>
+                <a href="{{ '/categories/#英语' | relative_url }}" class="category-link">查看笔记</a>
+            </div>
+            <div class="category-card">
+                <h3>生活日记</h3>
+                <p>记录生活中的美好时刻和感悟</p>
+                <a href="{{ '/categories/#生活' | relative_url }}" class="category-link">查看日记</a>
+            </div>
+        </div>
+    </div>
+</section>
