@@ -1,74 +1,86 @@
-<header>
+# 个人博客网站
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+这是我的个人博客网站，使用Jekyll构建，托管在GitHub Pages上。
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
 
-</header>
+## 网站内容
 
-<!--
-  <<< Author notes: Step 4 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the file path. Previous version checked the front matter formatting.
--->
+这个博客主要包含以下内容：
 
-## Step 4: Create a blog post
+1. **编程笔记**：记录我学习C/C++、算法等编程知识的心得和笔记
+2. **英语学习**：分享英语学习经验和翻译技巧
+3. **生活日记**：记录个人成长和学习过程中的感悟
 
-_Your home page is looking great! :cowboy_hat_face:_
+## 网站结构
 
-GitHub Pages uses Jekyll. In Jekyll, we can create a blog by using specially named files and frontmatter. The files must be named `_posts/YYYY-MM-DD-title.md`. You must also include `title` and `date` in your frontmatter.
+- `_posts/`：存放博客文章
+- `_layouts/`：存放页面布局模板
+- `assets/`：存放CSS、JavaScript和图片等资源
+- `_config.yml`：网站配置文件
 
-**What is _frontmatter_?**: The syntax Jekyll files use is called YAML frontmatter. It goes at the top of your file and looks something like this:
+## 本地运行
 
-```yml
+如果你想在本地运行这个网站，需要按照以下步骤操作：
+
+1. 安装Ruby和Jekyll
+
+   ```
+   gem install bundler jekyll
+   ```
+
+2. 克隆仓库
+
+   ```
+   git clone https://github.com/你的用户名/你的仓库名.git
+   cd 你的仓库名
+   ```
+
+3. 安装依赖
+
+   ```
+   bundle install
+   ```
+
+4. 启动本地服务器
+
+   ```
+   bundle exec jekyll serve
+   ```
+
+5. 在浏览器中访问 `http://localhost:4000`
+
+## 添加新文章
+
+要添加新的博客文章，只需在 `_posts` 目录下创建一个新的Markdown文件，文件名格式为：`YYYY-MM-DD-title.md`。
+
+文章头部需要包含以下Front Matter：
+
+```yaml
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+layout: post
+title: "文章标题"
+date: YYYY-MM-DD
+categories: [分类]
+tags: [标签1, 标签2]
 ---
 ```
 
-For more information about configuring front matter, see the [Jekyll frontmatter documentation](https://jekyllrb.com/docs/frontmatter/).
+## 自定义样式
 
-### :keyboard: Activity: Create a blog post
+网站的自定义样式位于 `assets/css/style.scss` 文件中。你可以修改这个文件来自定义网站的外观。
 
-1. Browse to the `my-pages` branch.
-1. Click the `Add file` dropdown menu and then on `Create new file`.
-1. Name the file `_posts/YYYY-MM-DD-title.md`.
-1. Replace the `YYYY-MM-DD` with today's date, and change the `title` of your first blog post if you'd like.
-   > If you do edit the title, make sure there are hyphens between your words.
-   > If your blog post date doesn't follow the correct date convention, you'll receive an error and your site won't build. For more information, see "[Page build failed: Invalid post date](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites)".
-1. Type the following content at the top of your blog post:
-   ```yaml
-   ---
-   title: "YOUR-TITLE"
-   date: YYYY-MM-DD
-   ---
-   ```
-1. Replace `YOUR-TITLE` with the title for your blog post.
-1. Replace `YYYY-MM-DD` with today's date.
-1. Type a quick draft of your blog post. Remember, you can always edit it later.
-1. Commit your changes to your branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+## 部署
 
-<footer>
+这个网站使用GitHub Pages自动部署。每次推送到main分支时，GitHub Actions会自动构建并部署网站。
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## 许可证
 
----
+MIT License
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 联系方式
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+如果你有任何问题或建议，欢迎通过以下方式联系我：
 
-</footer>
+- Bilibili：[我的Bilibili主页](https://space.bilibili.com/你的ID)
+- GitHub：[我的GitHub主页](https://github.com/你的用户名) 
